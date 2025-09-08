@@ -1,10 +1,7 @@
 #include <iostream>
 #include <cmath>
 
-using std::cin;
-using std::cout;
-using std::endl;
-
+using namespace std;
 int main()
 {
     cout << "Hi, please enter two whole numbers: ";
